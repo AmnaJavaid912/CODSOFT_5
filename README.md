@@ -21,5 +21,5 @@ To set up the Face Detection App, follow these steps:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your-username/face-detection-app.git
+   git clone https://github.com/AmnaJavaid912/CODSOFT_5.git
    cd face-detection-app
